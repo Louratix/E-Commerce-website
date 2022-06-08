@@ -1,0 +1,73 @@
+#wrapper{
+	width: 1500px;
+	margin-right: auto;
+	margin-left: auto;
+	background: transparent;
+}
+#logo{
+
+	background: transparent;
+	margin: auto;
+	border: 1px transparent;
+	text-align: center;
+}
+
+body{
+  background-image: url("Background.webp");
+}
+
+.nav ul li{
+	float: left;
+	width: 350px;
+	background: lightblue;
+	height: 60px;
+	text-align: center;
+	margin-bottom: 5px;
+	margin-top: 30px;
+}
+
+.nav ul{
+	list-style-type: none;
+}
+
+.nav ul li:hover {
+	background: blue;
+
+}
+
+.nav a{
+	text-decoration: none;
+	color: white;
+	border: 1px solid black;
+	display: block;
+	padding: 6.5%;
+}
+
+#Latestnews{
+
+	float: left;
+	margin-left: 40px;
+	height: 300px;
+	width: 699px;
+	border: 1px solid black;
+}
+
+#Twitter{
+
+	float: right;
+	height:501px;
+	width: 698px;
+	margin-right: 59px;
+	border: 1px solid black;
+}
+
+#BestDeals{
+
+	clear: left;
+	height:200px;
+	width: 699px;
+	margin-left: 40px;
+	border: 1px solid black;
+}
+
+}
